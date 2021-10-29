@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+  text-color: white;
+}
+
+.foto {
+  background-color: black;
+  flex: 1;
+  flex-direction: column;
+  height:100vh
+}
+
